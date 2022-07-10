@@ -5,7 +5,7 @@ LuaC/Bytecode to Lua
 
 install java, 
 
-donwload unlua5.jar
+donwload unlua54.jar
 
 open cmd in folder where turboh.luac is located
 
