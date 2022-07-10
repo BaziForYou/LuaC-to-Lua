@@ -1,11 +1,18 @@
 ## ❗ Info
 LuaC/Bytecode to Lua
 
+
+
 install java, 
+
 donwload unlua5.jar
+
 open cmd in folder where turboh.luac is located
+
 run command:
+
 java -jar unluac54.jar turboh.luac > turboh.lua
+
 you only need to sort all strings etc to get readable code
 
 ### Languages
